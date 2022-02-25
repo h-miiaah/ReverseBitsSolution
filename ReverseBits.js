@@ -3,5 +3,5 @@
  * @return {number} - a positive integer
  */
  var reverseBits = function(n) {
-    
+    var s = '';
   };
