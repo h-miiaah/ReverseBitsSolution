@@ -18,6 +18,7 @@
 
   - First convert the number to a string.
   - Then iterate over the string and add the value of the current character to the count variable.
+  - Then decrement the index variable and divide the number by 2.
   
 
   */
