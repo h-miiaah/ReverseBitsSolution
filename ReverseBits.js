@@ -16,6 +16,6 @@
 
   /*
 
-  
+  - First convert the number to a string.
 
   */
