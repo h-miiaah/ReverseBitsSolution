@@ -5,4 +5,5 @@
  var reverseBits = function(n) {
     var s = '';
     var count = 0;
+    var index = 31;
   };
