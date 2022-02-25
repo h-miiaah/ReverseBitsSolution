@@ -20,6 +20,7 @@
   - Then iterate over the string and add the value of the current character to the count variable.
   - Then decrement the index variable and divide the number by 2.
   - Then check if the number is odd. If it is, we add the value of the current character to the count variable.
+  - Finally return the count variable.
   
 
   */
