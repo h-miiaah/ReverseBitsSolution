@@ -6,4 +6,7 @@
     var s = '';
     var count = 0;
     var index = 31;
+    while (n > 0) {
+        
+      }
   };
