@@ -11,4 +11,5 @@
         index--;
         n = Math.floor(n / 2);
       }
+      return count;
   };
